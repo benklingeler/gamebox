@@ -1,3 +1,8 @@
+/**
+ * ImposterVoting component for the voting phase of the Imposter game.
+ * Players cast their votes for who they think is the imposter.
+ */
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Player, GameState } from '../../utils/types';
 import { faArrowRight, faInfo, faVoteYea } from '@fortawesome/free-solid-svg-icons';
@@ -5,10 +10,29 @@ import { performGameAction } from '../../utils/api';
 import { AnimatePresence, motion } from 'motion/react';
 import { twMerge } from 'tailwind-merge';
 
+/**
+ * Props for the ImposterVoting component.
+ */
 type Props = {
+    /** Current game state */
     gameState: GameState;
+    /** The current player */
     player: Player;
 };
+
+/**
+ * Renders the voting phase of the Imposter game.
+ * Shows all players and allows voting. Displays current votes.
+ * Host can end voting when all players have voted.
+ *
+ * @param props - Component props
+ * @returns React component
+ *
+ * @example
+ * ```tsx
+ * <ImposterVoting gameState={gameState} player={currentPlayer} />
+ * ```
+ */
 export default function ImposterVoting({ gameState, player }: Props) {
     if (
         !gameState ||

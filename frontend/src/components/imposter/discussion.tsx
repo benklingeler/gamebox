@@ -1,13 +1,37 @@
+/**
+ * ImposterDiscussion component for the discussion phase of the Imposter game.
+ * Players discuss and decide when they're ready to vote.
+ */
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Player, GameState } from '../../utils/types';
 import { faInfo, faVoteYea } from '@fortawesome/free-solid-svg-icons';
 import { performGameAction } from '../../utils/api';
 import { AnimatePresence, motion } from 'motion/react';
 
+/**
+ * Props for the ImposterDiscussion component.
+ */
 type Props = {
+    /** Current game state */
     gameState: GameState;
+    /** The current player */
     player: Player;
 };
+
+/**
+ * Renders the discussion phase of the Imposter game.
+ * Shows the player their word (or hint if they're the imposter) and allows them
+ * to signal when they're ready to vote.
+ *
+ * @param props - Component props
+ * @returns React component
+ *
+ * @example
+ * ```tsx
+ * <ImposterDiscussion gameState={gameState} player={currentPlayer} />
+ * ```
+ */
 export default function ImposterDiscussion({ gameState, player }: Props) {
     if (
         !gameState ||

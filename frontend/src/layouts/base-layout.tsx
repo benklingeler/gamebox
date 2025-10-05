@@ -1,3 +1,8 @@
+/**
+ * BaseLayout component provides the main application structure.
+ * Handles player initialization and nickname management.
+ */
+
 import { useEffect } from 'react';
 import { usePlayer } from '../utils/player';
 import NicknameRoute from '../routes/nickname-route';
@@ -5,10 +10,29 @@ import { faEdit, faHand } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Link } from 'react-router';
 
+/**
+ * Props for the BaseLayout component.
+ */
 type Props = {
+    /** Child components to render in the main content area */
     children: React.ReactNode;
 };
 
+/**
+ * Main application layout wrapper.
+ * Shows nickname prompt if player hasn't set a nickname yet.
+ * Renders header, main content area, and footer.
+ *
+ * @param props - Component props
+ * @returns React component
+ *
+ * @example
+ * ```tsx
+ * <BaseLayout>
+ *   <RouterProvider router={router} />
+ * </BaseLayout>
+ * ```
+ */
 export default function BaseLayout({ children }: Props) {
     const { id, nickname, initializeId, setNickname } = usePlayer();
 

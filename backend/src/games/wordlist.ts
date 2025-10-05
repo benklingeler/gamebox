@@ -1,3 +1,27 @@
+/**
+ * Word list for the Imposter game mode.
+ *
+ * Each entry contains:
+ * - word: The main word that most players will receive
+ * - hint: A related word that provides context (the imposter receives this as their word)
+ *
+ * The words are primarily in German and cover various categories including:
+ * - Food and beverages
+ * - Transportation
+ * - Household items
+ * - Nature and animals
+ * - Professions
+ * - Technology
+ * - Activities and hobbies
+ *
+ * @example
+ * ```typescript
+ * import { WORD_LIST } from './wordlist';
+ * const randomWord = WORD_LIST[Math.floor(Math.random() * WORD_LIST.length)];
+ * console.log(randomWord.word, randomWord.hint); // e.g., "Apfel", "Birne"
+ * ```
+ */
+
 export const WORD_LIST = [
     {
         word: 'Apfel',

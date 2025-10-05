@@ -1,3 +1,8 @@
+/**
+ * GameRoute component for the main game interface.
+ * Handles game state management, WebSocket connections, and game-specific UI.
+ */
+
 import { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router';
 import { advanceGame, getGameState, joinGame, leaveGame, performGameAction, startGame } from '../utils/api';
@@ -11,6 +16,25 @@ import ImposterDiscussion from '../components/imposter/discussion';
 import ImposterVoting from '../components/imposter/voting';
 import ImposterReveal from '../components/imposter/reveal';
 
+/**
+ * Main game route component.
+ * Manages WebSocket connection for real-time updates, handles game state,
+ * and renders game-specific components based on the current game mode and phase.
+ *
+ * Features:
+ * - Real-time game state synchronization via WebSocket
+ * - Game session management (join, leave, start)
+ * - Host controls (start game, reset game)
+ * - Game mode and phase routing (Imposter game phases)
+ *
+ * @returns React component
+ *
+ * @example
+ * ```tsx
+ * // Rendered by router for /game/:gameId
+ * <GameRoute />
+ * ```
+ */
 export default function GameRoute() {
     const { gameId } = useParams();
     const gID = gameId || '';

@@ -1,9 +1,33 @@
+/**
+ * PlayerList component displays all players in the current game session.
+ * Shows player avatars, nicknames, and host status.
+ */
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCrown } from '@fortawesome/free-solid-svg-icons';
 import { usePlayer } from '../utils/player';
 import { Player } from '../utils/types';
 
-export default function PlayerList({ players }: { players: Player[] }) {
+/**
+ * Props for the PlayerList component.
+ */
+type PlayerListProps = {
+    /** Array of players to display */
+    players: Player[];
+};
+
+/**
+ * Displays a list of all players in the game.
+ *
+ * @param props - Component props
+ * @returns React component
+ *
+ * @example
+ * ```tsx
+ * <PlayerList players={gameState.players} />
+ * ```
+ */
+export default function PlayerList({ players }: PlayerListProps) {
     const { id } = usePlayer();
 
     return (

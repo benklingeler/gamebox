@@ -1,13 +1,37 @@
+/**
+ * ImposterReveal component for the reveal phase of the Imposter game.
+ * Shows the imposter's identity and determines the winner.
+ */
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { Player, GameState } from '../../utils/types';
 import { faArrowRight, faInfo, faUsers, faUserSecret, faVoteYea } from '@fortawesome/free-solid-svg-icons';
 import { performGameAction } from '../../utils/api';
 import { twMerge } from 'tailwind-merge';
 
+/**
+ * Props for the ImposterReveal component.
+ */
 type Props = {
+    /** Current game state */
     gameState: GameState;
+    /** The current player */
     player: Player;
 };
+
+/**
+ * Renders the reveal phase of the Imposter game.
+ * Displays who the imposter was, the voting results, and determines the winner.
+ * The crew wins if the imposter received the most votes (no ties).
+ *
+ * @param props - Component props
+ * @returns React component
+ *
+ * @example
+ * ```tsx
+ * <ImposterReveal gameState={gameState} player={currentPlayer} />
+ * ```
+ */
 export default function ImposterReveal({ gameState, player }: Props) {
     if (
         !gameState ||

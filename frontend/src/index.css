@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@theme {
+  --default-font-family: "Lato", Arial, sans-serif;
+
+  --color-background: hsl(0deg, 0%, 10%);
+  --color-foreground: hsl(0deg, 0%, 90%);
+
+  --color-primary: hsl(240deg, 60%, 80%);
+  --color-primary-foreground: hsl(240deg, 60%, 20%);
+
+  --color-muted: hsl(0deg, 0%, 30%);
+  --color-muted-foreground: hsl(0deg, 0%, 90%);
+
+  --color-input: hsl(0deg, 0%, 20%);
+  --color-input-foreground: hsl(0deg, 0%, 90%);
+
+  --color-border: hsl(0deg, 0%, 50%);
+}
+
+@layer components {
+  .button {
+    @apply flex items-center justify-center gap-1 py-1 px-2 bg-primary text-primary-foreground cursor-pointer;
+  }
+
+  .button-muted {
+    @apply bg-muted text-muted-foreground;
+  }
+
+  .button-ghost {
+    @apply bg-transparent text-muted-foreground hover:bg-muted hover:text-muted-foreground;
+  }
+}

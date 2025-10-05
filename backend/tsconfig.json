@@ -1,0 +1,35 @@
+{
+    // Visit https://aka.ms/tsconfig to read more about this file
+    "compilerOptions": {
+        // File Layout
+        "rootDir": "./src",
+        "outDir": "./dist",
+        // Module System
+        "module": "commonjs",
+        "target": "ES2022",
+        "lib": ["ES2022"],
+        "moduleResolution": "node",
+        // Type Checking
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "resolveJsonModule": true,
+        // Source Maps & Declarations
+        "sourceMap": true,
+        "declaration": true,
+        "declarationMap": true,
+        // Node.js Types
+        "types": ["node"],
+        // Additional Strict Checks
+        "noUncheckedIndexedAccess": true,
+        "exactOptionalPropertyTypes": true,
+        "noImplicitReturns": true,
+        "noFallthroughCasesInSwitch": true,
+        // Module Detection
+        "moduleDetection": "force",
+        "isolatedModules": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "dist"]
+}

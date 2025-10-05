@@ -1,0 +1,1118 @@
+[
+  {
+    "word": "Konsole",
+    "hint": "PC"
+  },
+  {
+    "word": "PlayStation",
+    "hint": "Xbox"
+  },
+  {
+    "word": "Switch",
+    "hint": "Wii"
+  },
+  {
+    "word": "Gaming-PC",
+    "hint": "Laptop"
+  },
+  {
+    "word": "Fernseher",
+    "hint": "Monitor"
+  },
+  {
+    "word": "Bildschirm",
+    "hint": "Monitor"
+  },
+  {
+    "word": "Controller",
+    "hint": "Joystick"
+  },
+  {
+    "word": "Gamepad",
+    "hint": "Controller"
+  },
+  {
+    "word": "Tastatur",
+    "hint": "Maus"
+  },
+  {
+    "word": "Headset",
+    "hint": "Kopfhörer"
+  },
+  {
+    "word": "Webcam",
+    "hint": "Kamera"
+  },
+  {
+    "word": "Mikrofon",
+    "hint": "Headset"
+  },
+  {
+    "word": "VR-Brille",
+    "hint": "3D-Brille"
+  },
+  {
+    "word": "Lenkrad",
+    "hint": "Controller"
+  },
+  {
+    "word": "Dock",
+    "hint": "Ladestation"
+  },
+  {
+    "word": "Akkupack",
+    "hint": "Ladegerät"
+  },
+  {
+    "word": "Speicherkarte",
+    "hint": "USB-Stick"
+  },
+  {
+    "word": "WLAN",
+    "hint": "LAN"
+  },
+  {
+    "word": "Router",
+    "hint": "Modem"
+  },
+  {
+    "word": "Spiel",
+    "hint": "Match"
+  },
+  {
+    "word": "Level",
+    "hint": "Stufe"
+  },
+  {
+    "word": "Mission",
+    "hint": "Quest"
+  },
+  {
+    "word": "Nebenquest",
+    "hint": "Aufgabe"
+  },
+  {
+    "word": "Kampagne",
+    "hint": "Einzelspieler"
+  },
+  {
+    "word": "Mehrspieler",
+    "hint": "Koop"
+  },
+  {
+    "word": "Koop",
+    "hint": "Teamspiel"
+  },
+  {
+    "word": "Lobby",
+    "hint": "Warteraum"
+  },
+  {
+    "word": "Server",
+    "hint": "Lobby"
+  },
+  {
+    "word": "Raum",
+    "hint": "Karte"
+  },
+  {
+    "word": "Map",
+    "hint": "Karte"
+  },
+  {
+    "word": "Runde",
+    "hint": "Match"
+  },
+  {
+    "word": "Turnier",
+    "hint": "Wettkampf"
+  },
+  {
+    "word": "Punkt",
+    "hint": "Score"
+  },
+  {
+    "word": "Highscore",
+    "hint": "Bestwert"
+  },
+  {
+    "word": "Rekord",
+    "hint": "Bestzeit"
+  },
+  {
+    "word": "Trophäe",
+    "hint": "Erfolg"
+  },
+  {
+    "word": "Erfolg",
+    "hint": "Abzeichen"
+  },
+  {
+    "word": "Abzeichen",
+    "hint": "Medaille"
+  },
+  {
+    "word": "Spielstand",
+    "hint": "Speicherstand"
+  },
+  {
+    "word": "Speichern",
+    "hint": "Laden"
+  },
+  {
+    "word": "Checkpoint",
+    "hint": "Speicherpunkt"
+  },
+  {
+    "word": "Tutorial",
+    "hint": "Anleitung"
+  },
+  {
+    "word": "Optionen",
+    "hint": "Einstellungen"
+  },
+  {
+    "word": "Start",
+    "hint": "Fortsetzen"
+  },
+  {
+    "word": "Pause",
+    "hint": "Menü"
+  },
+  {
+    "word": "Neues Spiel",
+    "hint": "Fortsetzen"
+  },
+  {
+    "word": "Abbrechen",
+    "hint": "Zurück"
+  },
+  {
+    "word": "Schwierigkeit",
+    "hint": "Modus"
+  },
+  {
+    "word": "Einfach",
+    "hint": "Normal"
+  },
+  {
+    "word": "Schwer",
+    "hint": "Albtraum"
+  },
+  {
+    "word": "Open World",
+    "hint": "Freie Welt"
+  },
+  {
+    "word": "Freies Spiel",
+    "hint": "Sandbox"
+  },
+  {
+    "word": "Story",
+    "hint": "Kampagne"
+  },
+  {
+    "word": "Freischalten",
+    "hint": "Sammeln"
+  },
+  {
+    "word": "Update",
+    "hint": "Patch"
+  },
+  {
+    "word": "Download",
+    "hint": "Installation"
+  },
+  {
+    "word": "Installation",
+    "hint": "Update"
+  },
+  {
+    "word": "Mod",
+    "hint": "Addon"
+  },
+  {
+    "word": "Skin",
+    "hint": "Kostüm"
+  },
+  {
+    "word": "DLC",
+    "hint": "Erweiterung"
+  },
+  {
+    "word": "Season",
+    "hint": "Saison"
+  },
+  {
+    "word": "Battle Pass",
+    "hint": "Saisonpass"
+  },
+  {
+    "word": "Ego-Shooter",
+    "hint": "Actionspiel"
+  },
+  {
+    "word": "Rollenspiel",
+    "hint": "Abenteuer"
+  },
+  {
+    "word": "Rennspiel",
+    "hint": "Simulator"
+  },
+  {
+    "word": "Fußballspiel",
+    "hint": "Sportspiel"
+  },
+  {
+    "word": "Strategie",
+    "hint": "Aufbau"
+  },
+  {
+    "word": "Puzzlespiel",
+    "hint": "Logikspiel"
+  },
+  {
+    "word": "Jump and Run",
+    "hint": "Plattformer"
+  },
+  {
+    "word": "Horrorspiel",
+    "hint": "Thriller"
+  },
+  {
+    "word": "Survival",
+    "hint": "Abenteuer"
+  },
+  {
+    "word": "Musikspiel",
+    "hint": "Rhythmusspiel"
+  },
+  {
+    "word": "HUD",
+    "hint": "Anzeige"
+  },
+  {
+    "word": "Minikarte",
+    "hint": "Karte"
+  },
+  {
+    "word": "Kompass",
+    "hint": "Karte"
+  },
+  {
+    "word": "Inventar",
+    "hint": "Rucksack"
+  },
+  {
+    "word": "Rucksack",
+    "hint": "Tasche"
+  },
+  {
+    "word": "Truhe",
+    "hint": "Kiste"
+  },
+  {
+    "word": "Beute",
+    "hint": "Loot"
+  },
+  {
+    "word": "Gold",
+    "hint": "Münzen"
+  },
+  {
+    "word": "Währung",
+    "hint": "Coins"
+  },
+  {
+    "word": "Erfahrung",
+    "hint": "XP"
+  },
+  {
+    "word": "Fähigkeit",
+    "hint": "Skill"
+  },
+  {
+    "word": "Talent",
+    "hint": "Fähigkeit"
+  },
+  {
+    "word": "Stufe",
+    "hint": "Rang"
+  },
+  {
+    "word": "Rang",
+    "hint": "Liga"
+  },
+  {
+    "word": "Gesundheit",
+    "hint": "Lebenspunkte"
+  },
+  {
+    "word": "Energie",
+    "hint": "Ausdauer"
+  },
+  {
+    "word": "Mana",
+    "hint": "Energie"
+  },
+  {
+    "word": "Rüstung",
+    "hint": "Rüstungswert"
+  },
+  {
+    "word": "Schaden",
+    "hint": "Treffer"
+  },
+  {
+    "word": "Springen",
+    "hint": "Rollen"
+  },
+  {
+    "word": "Rennen",
+    "hint": "Laufen"
+  },
+  {
+    "word": "Schleichen",
+    "hint": "Verstecken"
+  },
+  {
+    "word": "Klettern",
+    "hint": "Hangeln"
+  },
+  {
+    "word": "Tauchen",
+    "hint": "Schwimmen"
+  },
+  {
+    "word": "Zielen",
+    "hint": "Schießen"
+  },
+  {
+    "word": "Nachladen",
+    "hint": "Wechseln"
+  },
+  {
+    "word": "Blocken",
+    "hint": "Parieren"
+  },
+  {
+    "word": "Heilen",
+    "hint": "Regenerieren"
+  },
+  {
+    "word": "Sammeln",
+    "hint": "Plündern"
+  },
+  {
+    "word": "Werfen",
+    "hint": "Legen"
+  },
+  {
+    "word": "Bauen",
+    "hint": "Craften"
+  },
+  {
+    "word": "Kochen",
+    "hint": "Brauen"
+  },
+  {
+    "word": "Handeln",
+    "hint": "Tauschen"
+  },
+  {
+    "word": "Suchen",
+    "hint": "Scannen"
+  },
+  {
+    "word": "Markieren",
+    "hint": "Pingen"
+  },
+  {
+    "word": "Reviven",
+    "hint": "Wiederbeleben"
+  },
+  {
+    "word": "Respawn",
+    "hint": "Wiedererscheinen"
+  },
+  {
+    "word": "Schwert",
+    "hint": "Dolch"
+  },
+  {
+    "word": "Axt",
+    "hint": "Hammer"
+  },
+  {
+    "word": "Bogen",
+    "hint": "Armbrust"
+  },
+  {
+    "word": "Schild",
+    "hint": "Rüstung"
+  },
+  {
+    "word": "Helm",
+    "hint": "Maske"
+  },
+  {
+    "word": "Stiefel",
+    "hint": "Schuhe"
+  },
+  {
+    "word": "Trank",
+    "hint": "Heiltrank"
+  },
+  {
+    "word": "Medikit",
+    "hint": "Verbandskasten"
+  },
+  {
+    "word": "Munition",
+    "hint": "Pfeile"
+  },
+  {
+    "word": "Granate",
+    "hint": "Mine"
+  },
+  {
+    "word": "Schlüssel",
+    "hint": "Schloss"
+  },
+  {
+    "word": "Werkbank",
+    "hint": "Ofen"
+  },
+  {
+    "word": "Angel",
+    "hint": "Köder"
+  },
+  {
+    "word": "Fackel",
+    "hint": "Laterne"
+  },
+  {
+    "word": "Seil",
+    "hint": "Haken"
+  },
+  {
+    "word": "Karte",
+    "hint": "Kompass"
+  },
+  {
+    "word": "Zauberbuch",
+    "hint": "Schriftrolle"
+  },
+  {
+    "word": "Clan",
+    "hint": "Gilde"
+  },
+  {
+    "word": "Team",
+    "hint": "Gruppe"
+  },
+  {
+    "word": "Freunde",
+    "hint": "Gruppe"
+  },
+  {
+    "word": "Matchmaking",
+    "hint": "Suche"
+  },
+  {
+    "word": "Rangliste",
+    "hint": "Leaderboard"
+  },
+  {
+    "word": "Clankrieg",
+    "hint": "Turnier"
+  },
+  {
+    "word": "Voicechat",
+    "hint": "Chat"
+  },
+  {
+    "word": "Ping",
+    "hint": "Lag"
+  },
+  {
+    "word": "Paketverlust",
+    "hint": "Lag"
+  },
+  {
+    "word": "Kick",
+    "hint": "Ban"
+  },
+  {
+    "word": "Report",
+    "hint": "Meldung"
+  },
+  {
+    "word": "Fair Play",
+    "hint": "Regeln"
+  },
+  {
+    "word": "Cheat",
+    "hint": "Trainer"
+  },
+  {
+    "word": "Hacker",
+    "hint": "Cheater"
+  },
+  {
+    "word": "Smurf",
+    "hint": "Zweitaccount"
+  },
+  {
+    "word": "Drops",
+    "hint": "Belohnungen"
+  },
+  {
+    "word": "Streamer",
+    "hint": "Creator"
+  },
+  {
+    "word": "Zuschauer",
+    "hint": "Chat"
+  },
+  {
+    "word": "Arena",
+    "hint": "Stadion"
+  },
+  {
+    "word": "Finale",
+    "hint": "Endspiel"
+  },
+  {
+    "word": "Halbfinale",
+    "hint": "Viertelfinale"
+  },
+  {
+    "word": "Best of",
+    "hint": "Serien"
+  },
+  {
+    "word": "Coach",
+    "hint": "Trainer"
+  },
+  {
+    "word": "Analyst",
+    "hint": "Kommentator"
+  },
+  {
+    "word": "Replay",
+    "hint": "Wiederholung"
+  },
+  {
+    "word": "Highlight",
+    "hint": "Clip"
+  },
+  {
+    "word": "Taktik",
+    "hint": "Strategie"
+  },
+  {
+    "word": "Draft",
+    "hint": "Auswahl"
+  },
+  {
+    "word": "Minecraft",
+    "hint": "Baumodus"
+  },
+  {
+    "word": "Fortnite",
+    "hint": "Battle Royale"
+  },
+  {
+    "word": "Mario",
+    "hint": "Jump and Run"
+  },
+  {
+    "word": "Zelda",
+    "hint": "Abenteuer"
+  },
+  {
+    "word": "Tetris",
+    "hint": "Puzzlespiel"
+  },
+  {
+    "word": "GTA",
+    "hint": "Open World"
+  },
+  {
+    "word": "FIFA",
+    "hint": "Fußballspiel"
+  },
+  {
+    "word": "Skyrim",
+    "hint": "Rollenspiel"
+  },
+  {
+    "word": "Dark Souls",
+    "hint": "Bosskampf"
+  },
+  {
+    "word": "Counter Strike",
+    "hint": "Ego-Shooter"
+  },
+  {
+    "word": "Mario Kart",
+    "hint": "Rennspiel"
+  },
+  {
+    "word": "Animal Crossing",
+    "hint": "Alltag"
+  },
+  {
+    "word": "The Sims",
+    "hint": "Lebenssimulation"
+  },
+  {
+    "word": "Game Over",
+    "hint": "Neustart"
+  },
+  {
+    "word": "Permadeath",
+    "hint": "Neuanfang"
+  },
+  {
+    "word": "Friendly Fire",
+    "hint": "Missgeschick"
+  },
+  {
+    "word": "Ragequit",
+    "hint": "Abmelden"
+  },
+  {
+    "word": "K.O.",
+    "hint": "Aus"
+  },
+  {
+    "word": "Wipe",
+    "hint": "Neustart"
+  },
+  {
+    "word": "Bossraum",
+    "hint": "Letzte Chance"
+  },
+  {
+    "word": "Letztes Leben",
+    "hint": "Extra Leben"
+  },
+  {
+    "word": "Lebensbalken",
+    "hint": "Herzstillstand"
+  },
+  {
+    "word": "Verflucht",
+    "hint": "Pech"
+  },
+  {
+    "word": "Alptraum",
+    "hint": "Hardcore"
+  },
+  {
+    "word": "Grabstein",
+    "hint": "Checkpoint"
+  },
+  {
+    "word": "Sensenmann",
+    "hint": "Game Over"
+  },
+  {
+    "word": "Zombie",
+    "hint": "Geist"
+  },
+  {
+    "word": "Geistermodus",
+    "hint": "Unsichtbar"
+  },
+  {
+    "word": "Fallenraum",
+    "hint": "Abgrund"
+  },
+  {
+    "word": "Mimic",
+    "hint": "Truhe"
+  },
+  {
+    "word": "Giftwolke",
+    "hint": "Rauch"
+  },
+  {
+    "word": "Feuerfalle",
+    "hint": "Bodenfalle"
+  },
+  {
+    "word": "Stirb und Retry",
+    "hint": "Neustart"
+  },
+  {
+    "word": "Erobern",
+    "hint": "Halten"
+  },
+  {
+    "word": "Sichern",
+    "hint": "Entschärfen"
+  },
+  {
+    "word": "Angreifen",
+    "hint": "Verteidigen"
+  },
+  {
+    "word": "Punkt A",
+    "hint": "Punkt B"
+  },
+  {
+    "word": "Flagge",
+    "hint": "Ziel"
+  },
+  {
+    "word": "Payload",
+    "hint": "Fracht"
+  },
+  {
+    "word": "Bombenmodus",
+    "hint": "Arenamodus"
+  },
+  {
+    "word": "Domination",
+    "hint": "Kontrolle"
+  },
+  {
+    "word": "King of the Hill",
+    "hint": "Herrschaft"
+  },
+  {
+    "word": "Eins gegen Eins",
+    "hint": "Duell"
+  },
+  {
+    "word": "Team gegen Team",
+    "hint": "Duell"
+  },
+  {
+    "word": "GG",
+    "hint": "Gutes Spiel"
+  },
+  {
+    "word": "GL HF",
+    "hint": "Viel Glück"
+  },
+  {
+    "word": "AFK",
+    "hint": "Abwesend"
+  },
+  {
+    "word": "EZ",
+    "hint": "Leicht"
+  },
+  {
+    "word": "Noob",
+    "hint": "Anfänger"
+  },
+  {
+    "word": "Pro",
+    "hint": "Könner"
+  },
+  {
+    "word": "Tryhard",
+    "hint": "Schwitzig"
+  },
+  {
+    "word": "Carry",
+    "hint": "Tragen"
+  },
+  {
+    "word": "Feed",
+    "hint": "Abgeben"
+  },
+  {
+    "word": "Tilt",
+    "hint": "Genervt"
+  },
+  {
+    "word": "Buff",
+    "hint": "Stärkung"
+  },
+  {
+    "word": "Nerf",
+    "hint": "Abschwächung"
+  },
+  {
+    "word": "Meta",
+    "hint": "Trend"
+  },
+  {
+    "word": "word",
+    "hint": "Lieblingschar"
+  },
+  {
+    "word": "Alt",
+    "hint": "Zweitfigur"
+  },
+  {
+    "word": "Build",
+    "hint": "Ausrichtung"
+  },
+  {
+    "word": "Heiler",
+    "hint": "Unterstützer"
+  },
+  {
+    "word": "Tank",
+    "hint": "Schutz"
+  },
+  {
+    "word": "Magier",
+    "hint": "Zauberer"
+  },
+  {
+    "word": "Bogenschütze",
+    "hint": "Schütze"
+  },
+  {
+    "word": "Assassine",
+    "hint": "Schurke"
+  },
+  {
+    "word": "Krieger",
+    "hint": "Ritter"
+  },
+  {
+    "word": "Schmied",
+    "hint": "Händler"
+  },
+  {
+    "word": "Händler",
+    "hint": "Questgeber"
+  },
+  {
+    "word": "Boss",
+    "hint": "Endgegner"
+  },
+  {
+    "word": "Mini-Boss",
+    "hint": "Zwischengegner"
+  },
+  {
+    "word": "Stadt",
+    "hint": "Dorf"
+  },
+  {
+    "word": "Burg",
+    "hint": "Schloss"
+  },
+  {
+    "word": "Dungeon",
+    "hint": "Kerker"
+  },
+  {
+    "word": "Mine",
+    "hint": "Höhle"
+  },
+  {
+    "word": "Wald",
+    "hint": "Sumpf"
+  },
+  {
+    "word": "Wüste",
+    "hint": "Oase"
+  },
+  {
+    "word": "Berg",
+    "hint": "Gipfel"
+  },
+  {
+    "word": "Strand",
+    "hint": "Küste"
+  },
+  {
+    "word": "Hafen",
+    "hint": "Anleger"
+  },
+  {
+    "word": "Labor",
+    "hint": "Fabrik"
+  },
+  {
+    "word": "Bunker",
+    "hint": "Basis"
+  },
+  {
+    "word": "Raumschiff",
+    "hint": "Station"
+  },
+  {
+    "word": "Holz",
+    "hint": "Stein"
+  },
+  {
+    "word": "Erz",
+    "hint": "Metall"
+  },
+  {
+    "word": "Brett",
+    "hint": "Balken"
+  },
+  {
+    "word": "Nagel",
+    "hint": "Schraube"
+  },
+  {
+    "word": "Stoff",
+    "hint": "Leder"
+  },
+  {
+    "word": "Kraut",
+    "hint": "Heilpflanze"
+  },
+  {
+    "word": "Rezept",
+    "hint": "Bauplan"
+  },
+  {
+    "word": "Ofen",
+    "hint": "Schmiede"
+  },
+  {
+    "word": "Amboss",
+    "hint": "Werkbank"
+  },
+  {
+    "word": "Acker",
+    "hint": "Garten"
+  },
+  {
+    "word": "Saat",
+    "hint": "Setzling"
+  },
+  {
+    "word": "Falle",
+    "hint": "Käfig"
+  },
+  {
+    "word": "Hunger",
+    "hint": "Ausdauer"
+  },
+  {
+    "word": "Durst",
+    "hint": "Energie"
+  },
+  {
+    "word": "Auto",
+    "hint": "Motorrad"
+  },
+  {
+    "word": "Boot",
+    "hint": "Schiff"
+  },
+  {
+    "word": "Fähre",
+    "hint": "Schiff"
+  },
+  {
+    "word": "Panzer",
+    "hint": "Jeep"
+  },
+  {
+    "word": "Helikopter",
+    "hint": "Drohne"
+  },
+  {
+    "word": "Raumgleiter",
+    "hint": "Shuttle"
+  },
+  {
+    "word": "Pferd",
+    "hint": "Reittier"
+  },
+  {
+    "word": "Karren",
+    "hint": "Wagen"
+  },
+  {
+    "word": "U-Boot",
+    "hint": "Schiff"
+  },
+  {
+    "word": "Sturz",
+    "hint": "Absturz"
+  },
+  {
+    "word": "Feuer",
+    "hint": "Lava"
+  },
+  {
+    "word": "Gift",
+    "hint": "Säure"
+  },
+  {
+    "word": "Zeitlimit",
+    "hint": "Timer"
+  },
+  {
+    "word": "Alarm",
+    "hint": "Sirene"
+  },
+  {
+    "word": "Schlüsselkarte",
+    "hint": "Code"
+  },
+  {
+    "word": "Sperre",
+    "hint": "Türe"
+  },
+  {
+    "word": "Sperrzone",
+    "hint": "Gas"
+  },
+  {
+    "word": "Kreis",
+    "hint": "Zone"
+  },
+  {
+    "word": "Vibration",
+    "hint": "Rumble"
+  },
+  {
+    "word": "Klick",
+    "hint": "Tastendruck"
+  },
+  {
+    "word": "Treffer",
+    "hint": "Headshot"
+  },
+  {
+    "word": "Pling",
+    "hint": "Erfolg"
+  },
+  {
+    "word": "Hupe",
+    "hint": "Signal"
+  },
+  {
+    "word": "Partyspiel",
+    "hint": "Minispiele"
+  },
+  {
+    "word": "Tanzen",
+    "hint": "Bewegen"
+  },
+  {
+    "word": "Quiz",
+    "hint": "Rätsel"
+  },
+  {
+    "word": "Karaoke",
+    "hint": "Singen"
+  },
+  {
+    "word": "Brettspiel",
+    "hint": "Kartenspiel"
+  },
+  {
+    "word": "Würfel",
+    "hint": "Karten"
+  }
+]
